@@ -1,4 +1,3 @@
-# ProyekAkhirPythonLVL3
 ## Alat yang akan saya gunakan untuk mengerjakan ide:
 > VSCode
 
